@@ -1,0 +1,112 @@
+{
+ "pypProjectName": "seanc",
+ "s3BucketURL": "https://behr-image-input-bucket-west-production.s3.us-west-2.amazonaws.com/12...",
+   "clickLog": [
+       {
+           "relX": 205,
+           "relY": 843,
+           "canvas": {
+               "x": 325.5,
+               "y": 24,
+               "width": 453,
+               "height": 604,
+               "top": 24,
+               "right": 778.5,
+               "bottom": 628,
+               "left": 325.5
+           },
+           "color": "M340-1",
+           "pixelData": {
+               "0": 0,
+               "1": 0,
+               "2": 0,
+               "3": 255
+           }
+       },
+       {
+           "action": 1,
+           "eraseDetails": [
+               {
+                   "startX": 239,
+                   "startY": 946,
+                   "endX": 239,
+                   "endY": 946
+               },
+               {
+                   "startX": 239,
+                   "startY": 946,
+                   "endX": 239,
+                   "endY": 946
+               }
+           ],
+           "relX": 0,
+           "relY": 0,
+           "canvas": {
+               "x": 325.5,
+               "y": 24,
+               "width": 453,
+               "height": 604,
+               "top": 24,
+               "right": 778.5,
+               "bottom": 628,
+               "left": 325.5
+           },
+           "color": null
+       },
+       {
+           "action": 3,
+           "drawDetails": {
+               "startX": 149,
+               "startY": 655,
+               "endX": 133,
+               "endY": 944,
+               "selected": false
+           },
+           "relX": 0,
+           "relY": 0,
+           "canvas": null,
+           "color": null
+       },
+       {
+           "action": 4,
+           "eraseDetails": [
+               {
+                   "startX": 175,
+                   "startY": 682,
+                   "endX": 267,
+                   "endY": 1045,
+                   "selected": false
+               }
+           ],
+           "relX": 0,
+           "relY": 0,
+           "canvas": {
+               "x": 325.5,
+               "y": 24,
+               "width": 453,
+               "height": 604,
+               "top": 24,
+               "right": 778.5,
+               "bottom": 628,
+               "left": 325.5
+           },
+           "color": null
+       },
+       {
+           "action": 5,
+           "relX": 0,
+           "relY": 0,
+           "color": null
+       },
+  
+       {
+           "action": 6,
+           "relX": 0,
+           "relY": 0,
+           "color": null
+       }
+   ],
+   "thumb": "data:image/png;ba...",
+   "grayscale": "https://behr-imag...",
+   "bucketEdge": "https://behr-image-o..."
+}
